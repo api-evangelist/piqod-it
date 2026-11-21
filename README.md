@@ -1,4 +1,4 @@
-# piqod-it
+# PIQOD
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-piqod-it is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://piqod.it/
+PIQOD is an online platform that aggregates and sells tickets for attractions, tours, and skip‑the‑line experiences worldwide. It partners with providers like Viator, Tiqets, and Headout to offer travelers curated activities, price comparisons, and easy booking across destinations. The site presents official listings, user reviews, and multilingual support, positioning itself as a one‑stop marketplace for travel experiences.
+
+**Areas:** Travel · Tours · Tickets · Attractions · Booking
+
+## PIQOD on APIs.io
+
+Everything profiled for PIQOD is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/piqod-it/](https://apis.io/providers/piqod-it/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [PIQOD Oracle API](https://apis.io/apis/piqod-it/piqod-it-oracle-api/) — The Oracle API from PIQOD — 3 operation(s) for oracle.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [PIQOD Agentic Access](https://apis.io/agentic-access/piqod-it/piqod-it-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PIQOD API Rules](https://apis.io/rules/piqod-it/piqod-it-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [PIQOD Domain Security](https://apis.io/security/piqod-it/piqod-it-domain-security/)
+- [PIQOD Vulnerability Disclosure](https://apis.io/security/piqod-it/piqod-it-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://piqod.it/)
+- [Blog](https://piqod.it/it/blog)
+- [Security](https://piqod.it/it/privacy)
+- [Terms of service](https://piqod.it/it/terms)
+- [Privacy policy](https://piqod.it/it/privacy)
+
+## API Evangelist rating
+
+**Kin Score 33.0** — thin · rubric 0.27.0 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 44.1 |
+| Contract governance | 65.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 32.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/piqod-it/](https://apis.io/providers/piqod-it/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PIQOD: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/piqod-it/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
